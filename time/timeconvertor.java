@@ -17,7 +17,8 @@ public class timeconvertor
                 class obj1=new mins();
                 obj1.converthours();
             case 2:
-                class obj2=new
+                class obj2=new hrs();
+                obj2.cobvertsec();
                 
         }
     }
